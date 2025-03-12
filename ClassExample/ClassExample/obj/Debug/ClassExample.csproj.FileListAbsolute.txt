@@ -1,0 +1,7 @@
+E:\New folder\C#\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+E:\New folder\C#\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+E:\New folder\C#\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+E:\New folder\C#\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.AssemblyReference.cache
+E:\New folder\C#\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+E:\New folder\C#\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+E:\New folder\C#\ClassExample\ClassExample\obj\Debug\ClassExample.pdb
